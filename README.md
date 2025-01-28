@@ -1,16 +1,8 @@
 # API-CEP-JAVA
 Consumo simples da api do site www.viacep.com.br para obtenção de dados relacionados a um cep consultado
 
-Para conversão do JSON para string, utilizei a biblioteca Gson. Adicione ao pom.xml:
-
-<!-- https://mvnrepository.com/artifact/com.google.code.gson/gson -->
-<dependencies>
-    <dependency>
-        <groupId>com.google.code.gson</groupId>
-        <artifactId>gson</artifactId>
-        <version>2.11.0</version>
-    </dependency>
-</dependencies>
+Para conversão do JSON para string, utilizei a biblioteca Gson. Acesse as dependências e adicione ao projeto em:
+https://mvnrepository.com/artifact/com.google.code.gson/gson
 
 Exemplo de saída:
 
